@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images/screencik.png" alt="Logo" width="250px" height="150px">
+    <img src="images/prysm.png" alt="Logo" width="250px" height="150px">
   </a>
 
   <h3 align="center">Your Fav Place to Ask about Programming</h3>
@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Screencik
 
-<img src="images/Screenshot (145).png" alt="Screenshot">
+<img src="images/Screenshot (196).png" alt="Screenshot">
 
 Prysm is a web application aimed at helping new and junior programmers learn and grow through community support. Users can post coding questions and get helpful answers from more experienced developers.
 
