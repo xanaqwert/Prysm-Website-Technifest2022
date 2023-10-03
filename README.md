@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="Images/prysm.png" alt="Logo" width="250px" height="150px">
+    <img src="Images/prysm.png" alt="Logo" width="200px" height="150px">
   </a>
 
   <h3 align="center">Your Fav Place to Ask about Programming</h3>
