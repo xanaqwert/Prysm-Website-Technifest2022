@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="">
     <img src="images/screencik.png" alt="Logo" width="250px" height="150px">
   </a>
 
@@ -73,27 +73,31 @@ Before you begin, ensure you have the following components installed on your sys
 ### Installation
 
 
-Step 1: Download the Source Code
-
-2. Clone the repo
+1. Clone the repo
    ```sh
-   https://github.com/xanaqwert/screencik-pwpb.git
+   https://github.com/xanaqwert/Prysm-Website-Technifest2022
    ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    ```sh
    cd screencik-pwpb
    ```
-4. Make a database in your php my admin for the login & register authentication.
+3. Install dependencies:
+   ```sh
+   npm or yarn (if u use yarn) install
+   ```
+4. Start on localhost:
+   ```sh
+   npm start
+   ```
 
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are welcome and appreciated! If you have ideas or improvements to suggest, please feel free to contribute: **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+contribute by following these steps:
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -101,6 +105,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+Don't forget to give the project a star if you find it helpful! Thanks for your support!
 
 
 <!-- LICENSE -->
@@ -108,26 +113,11 @@ Don't forget to give the project a star! Thanks again!
 
 License:
 
-The Screencik Movie Streaming Website is protected under the following license terms. By using, accessing, or contributing to this website, you agree to abide by the terms outlined below.
-
-   Usage:
-        You are free to use the Screencik Movie Streaming Website for personal, educational, or non-commercial purposes.
-        You may not use the website or any of its components for commercial purposes without explicit permission.
-
-  Modification:
-        You are allowed to modify the Screencik Movie Streaming Website's source code for personal use or educational purposes.
-        Modified versions of the website may not be redistributed or made publicly available without proper attribution.
-
-
-
+This project is licensed under the LICENSE.txt - see the LICENSE file for details.
 
 <!-- CONTACT -->
 ## Contact
 
 Muhammad Sahl Harits - [@xanaqwert](https://twitter.com/xanaqwert) - sahlrangers@gmail.com
-</br>
-Muhammad Ghofur Alfarabi - [@G4](https://twitter.com/) - 
-</br>
-Muhammad Alim Mansur - [@Mansur](https://twitter.com/) - 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
