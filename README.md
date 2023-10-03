@@ -40,7 +40,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About Screencik
+## About Prysm
 
 <img src="Images/Screenshot (196).png" alt="Screenshot">
 
@@ -79,7 +79,7 @@ Before you begin, ensure you have the following components installed on your sys
    ```
 2. Navigate to the project directory:
    ```sh
-   cd screencik-pwpb
+   cd Prysm-Website-Technifest2022
    ```
 3. Install dependencies:
    ```sh
